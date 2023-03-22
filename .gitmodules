@@ -1,0 +1,6 @@
+[submodule "s2n_empapi"]
+	path = s2n_empapi
+	url = https://github.com/suli2022/s2n_empapi.git
+[submodule "s2n_empweb"]
+	path = s2n_empweb
+	url = https://github.com/suli2022/s2n_empweb.git
